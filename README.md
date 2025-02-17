@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabryel Willers</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A Fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Next js, Node js, React, Vue js**
+- 🌱 I’m currently learning **Next js, Node js, React, Vue js, Java**
 
 - 👨‍💻 My Portfolio [https://gabryelwillers.com.br/](https://gabryelwillers.com.br/)
 
