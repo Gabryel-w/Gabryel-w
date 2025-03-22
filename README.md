@@ -54,8 +54,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ### 📩 Vamos conversar?  
 Estou sempre aberto a novas oportunidades e colaborações. Se você está procurando um desenvolvedor FullStack dedicado e apaixonado por tecnologia, não hesite em entrar em contato!  
 
-✉️ **Email:** seuemail@example.com  
-🔗 **LinkedIn:** [Gabryel Willers](https://linkedin.com/in/GabryelWillers)  
+✉️ **Email:** gabryelqwer@gmail.com
+🔗 **LinkedIn:** [Gabryel Willers](https://www.linkedin.com/in/gabryel-willers-124426238/)  
 
 ---
 
