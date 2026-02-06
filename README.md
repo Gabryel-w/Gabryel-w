@@ -79,7 +79,6 @@
 # GitHub Stats
 
 <div align="center" style="background-color:#0D1117; padding:20px; border-radius:16px;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-w&layout=compact&hide_border=true&bg_color=0D1117&title_color=fc890d&text_color=ffffff&icon_color=fc890d" style="margin:10px; border-radius:10px;"/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabryel-w&bg_color=0D1117&color=fc890d&line=fc890d&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" style="margin-top:20px; border-radius:10px;"/>
 </div>
 
